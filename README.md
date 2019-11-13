@@ -13,6 +13,11 @@
   - [Programming Paradigms](#programming-paradigms)
 
 # Contributing
+You can add any classes you think it would fit in here, with just a few rules: it has to be free, open and available for everyone!
+
+If the class does not belong to any existing topics, create a new one related to the class you are adding, add it to the [table of content](#contents).
+
+You have to add them alphabeticaly (class and topic), and provide all of the following information: name, author, number of classes, duration, date, platform.
 
 # Topics
 
