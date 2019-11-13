@@ -1,4 +1,4 @@
-<h2 align="center">Open Classes</h2>
+<h3 align="center">Open Classes</h3>
 <p align="center">
   Free self-taught education. Anytime. Anywhere.
 </p>
