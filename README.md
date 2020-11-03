@@ -6,6 +6,7 @@
 # Contents
 - [Contributing](#contributing)
 - [Topics](#topics)
+  - [Astronomy](#astronomy)
   - [Deep Learning](#deep-learning)
   - [Entrepreneurship](#entrepreneurship)
   - [Machine Learning](#machine-learning)
@@ -20,6 +21,12 @@ If the class does not belong to any existing topics, create a new one related to
 You have to add them alphabeticaly (class and topic), and provide all of the following information: name, author, number of classes, duration, date, platform.
 
 # Topics
+
+## Astronomy
+| Name | Author | Num. of classes | Duration | Date | Platform |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [Astronomia - Uma visão geral I](https://www.youtube.com/playlist?list=PLxI8Can9yAHd7kUPviBHxr-49QEl7PRXR) | UNIVESP | 35 | 16h 2min 20s | 30/05/2017 | YouTube |
+| [Astronomia - Uma visão geral II](https://www.youtube.com/playlist?list=PLxI8Can9yAHfJ2sGxMii8mJ6maoCj9AtU) | UNIVESP | 31 | 13h 23min 56s | 30/05/2017 | YouTube |
 
 ## Deep Learning
 | Name | Author | Num. of classes | Duration | Date | Platform |
